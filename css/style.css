@@ -219,3 +219,17 @@ transform: scale(1);
       }
 
 }
+
+@media  screen and (max-height:650px) {
+
+    form input{
+    
+        height:40px;
+    
+    }
+    form button{
+
+     height: 40px;
+    
+    }
+}
